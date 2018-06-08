@@ -1,2 +1,1 @@
-# digilib
-Digital Library - Web
+digilib.azurewebsites.net
