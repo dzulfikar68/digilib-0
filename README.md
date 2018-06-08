@@ -1,1 +1,1 @@
-digilib.azurewebsites.net
+digilib
